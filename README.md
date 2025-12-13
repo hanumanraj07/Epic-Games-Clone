@@ -1,3 +1,5 @@
+YouTube Video Link: https://youtu.be/Bae7hhBmTBI?si=FmJ7_LUAY73Zfdkc
+
 Epic Games Website Clone – Gaming Marketplace UI (Educational Project)
 
 A fully responsive and modern frontend clone of the Epic Games official website, focusing on the UI/UX of their game store, library layout, hero banners, and promotional sections.
