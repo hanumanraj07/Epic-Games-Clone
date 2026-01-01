@@ -1,4 +1,5 @@
 YouTube Video Link: https://youtu.be/Bae7hhBmTBI?si=FmJ7_LUAY73Zfdkc
+LinkedIn Profile: www.linkedin.com/in/hanuman-rajpurohit-203880383
 
 Epic Games Website Clone – Gaming Marketplace UI (Educational Project)
 
