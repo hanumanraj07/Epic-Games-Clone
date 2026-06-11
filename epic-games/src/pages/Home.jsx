@@ -275,7 +275,7 @@ function Home() {
         <div className="header-container">
           <div className="header-left">
             <div className="logo">
-              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Epic_Games_logo.svg/1034px-Epic_Games_logo.svg.png" alt="Epic Games Logo" />
+              <img src="https://logos-world.net/wp-content/uploads/2021/12/Epic-Games-Emblem.png" alt="Epic Games Logo" />
             </div>
             <nav className="main-nav">
               <ul>
